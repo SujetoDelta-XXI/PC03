@@ -40,6 +40,7 @@ Apps.jsx tambien llama a los componentes Header.jsx y Footer.jsx para poder rend
  
 
 Capturas de pantalla:
+
 ![image](https://github.com/user-attachments/assets/e77884dd-2718-4e8a-b3c0-11c6c7232a15)
 
 ![image](https://github.com/user-attachments/assets/2387e15c-c4a1-4ccc-8de6-95d044daa09c)
